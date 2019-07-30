@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Tackle the Animal in the Room in Your Listings
+title: How to Tackle the Elephant in the Room in Your Listings
 date: 2019-07-22 16:08:00
 tags:
   - Increase Business
