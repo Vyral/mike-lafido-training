@@ -1,7 +1,7 @@
 ---
 layout: post
-title: How to Tackle the Elephant in the Room in Your Listings
-date: 2019-07-22 16:08:00
+title: How to Tackle the "Elephant in the Room" in Your Listings
+date: 2019-07-31 04:08:00
 tags:
   - Increase Business
 excerpt: >-
@@ -22,7 +22,7 @@ youtube_code: Lm9sw6WnkoE
 
 {% include youtube.html %}
 
-It’s time to address the elephant in the room within your listings or potential listings. And it doesn’t have to be an elephant. It could be a deer, a lion, or any other animal, really. The point is this: If one of your listings has a unique, off-putting feature, you need to address it.&nbsp;
+It’s time to address the "elephant in the room" within your listings or potential listings. And it doesn’t have to be an elephant. It could be a deer, a lion, or any other animal, really. The point is this: If one of your listings has a unique, off-putting feature, you need to address it.&nbsp;
 
 There are two ways you can do so.&nbsp;
 
