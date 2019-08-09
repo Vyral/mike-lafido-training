@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Is Live Video Part of Your Marketing Plan?
-date: 2019-08-06 20:20:35
+date: 2019-08-06 20:20:00
 tags:
   - Luxury Listing Specialist
 excerpt: >-
@@ -21,9 +21,9 @@ youtube_code: xh1jI59LKws
 
 Today we’re going to talk about live videos and why you should be incorporating them into your business. I’m excited to show you some examples of how to create great content through live video platforms like Facebook Live and Instagram Live.
 
-There are plenty of reasons that you should be using live video in your business, but **one of the most important ones is to differentiate yourself.** Jack Trout once wrote a book called “Differentiate or Die.” One way to differentiate yourself in this business is by creating content on different social media platforms. I’ve done 20 to 30 live trainings over the past few years and have been consistently putting video out.&nbsp;
+There are plenty of reasons that you should be using live video in your business, but **one of the most important ones is to differentiate yourself.** Jack Trout once wrote a book called “Differentiate or Die.” One way to differentiate yourself in this business is by creating content on different social media platforms. I’ve done 20 to 30 live trainings over the past few years and have been consistently putting videos out.&nbsp;
 
-I can tell you that about 20% of agents consistently do this, but that means 80% aren’t. I don’t want you to be in that 80%. **I want you to be in that 20% so you can attract more high net worth individuals and differentiate yourself from the competition.&nbsp;**
+I can tell you that about 20% of agents consistently do this, but that means 80% aren’t. I don’t want you to be in that 80%. **I want you to be in that 20% so you can attract more high-net-worth individuals and differentiate yourself from the competition.&nbsp;**
 
 Another benefit is that it’s so easy to use. All you need is your phone and the Facebook app. Make sure your phone is vertical, type in your status, and click the “Go Live” button. Once you start the live video, you’re live for the world to see. Try a few practice runs before you actually go live. **I recommend a lot of energy, keep it short, and publish it to your wall and to your stories.&nbsp;**
 
