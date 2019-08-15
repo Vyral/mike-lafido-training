@@ -39,4 +39,6 @@ If you're interested in learning more about Facebook Live, don’t hesitate to r
 
 If you have any questions for me, don't hesitate to reach out. I look forward to hearing from you soon.<br>&nbsp;
 
-&nbsp;
+**19 Ways To Use Video:**<br><br>1\. Social Media<br>2\. Blog/Website<br>3\. Open Houses<br>4\. Testimonials<br>5\. Affiliates<br>6\. Special Events<br>7\. Lifestyle Films<br>8\. Common Questions<br>9\. Community Showcase<br>10\. Behind The Scenes Of Lifestyle Films<br>11\. Promotions<br>12\. Case Studies<br>13\. Education Videos<br>14\. Before/After<br>15\. Trainings<br>16\. Emails<br>17\. Just Listed/Sold<br>18\. Market Updates<br>19\. Home Tour
+
+**10 Reasons To Use Video:**<br><br>1 .Differentiate Yourself<br>2\. Build Trust<br>3\. Encourages Social Media Shares<br>4\. Appeals To Mobile Users<br>5\. Google Loves Video<br>6\. Return On Impression & Investment<br>7\. Boosts Conversion<br>8\.&nbsp; Explainer Videos<br>9\. Easy To Consume<br>10\. Buyers & Sellers Want It
