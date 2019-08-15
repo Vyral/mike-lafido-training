@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Is Live Video Part of Your Marketing Plan?
+title: Should "Live" Videos Be Part of Your Marketing Plan?
 date: 2019-08-06 20:20:00
 tags:
   - Luxury Listing Specialist
