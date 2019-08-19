@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Should "Live" Videos Be Part of Your Marketing Plan?
-date: 2019-08-06 20:20:00
+date: 2019-08-19 08:20:00
 tags:
   - Luxury Listing Specialist
 excerpt: >-
