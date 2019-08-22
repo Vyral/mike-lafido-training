@@ -43,8 +43,6 @@ If you have any questions for me, don't hesitate to reach out. I look forward to
 
 **10 Reasons To Use Video:**<br><br>1 .Differentiate Yourself<br>2\. Build Trust<br>3\. Encourages Social Media Shares<br>4\. Appeals To Mobile Users<br>5\. Google Loves Video<br>6\. Return On Impression & Investment<br>7\. Boosts Conversion<br>8\.&nbsp; Explainer Videos<br>9\. Easy To Consume<br>10\. Buyers & Sellers Want It
 
-<font color="red">**P.S:**</font>
-
-Whenever you're ready…here are three ways I can help you and YOUR business:<br>&nbsp;<br>**1\. Differentiate Yourself & Get "LUXE" Certified.**<br>To find out more about the Luxury Listing Specialist (LUXE) certification—[click here.](https://luxurylistingspecialist.com/){: target="_blank"}<br>&nbsp;<br>**2\. Work with me One-on-One.**<br>If you'd like to work directly with me to increase your average sale price and dominate selling high end and luxury homes in your market, we offer several coaching options.&nbsp; Shoot me an email at [Michael@MarketingLuxuryGroup.com](mailto:Michael@MarketingLuxuryGroup.com).
+<font color="red">**P.S:**</font>\: Whenever you're ready…here are three ways I can help you and YOUR business:<br>&nbsp;<br>**1\. Differentiate Yourself & Get "LUXE" Certified.**<br>To find out more about the Luxury Listing Specialist (LUXE) certification—[click here.](https://luxurylistingspecialist.com/){: target="_blank"}<br>&nbsp;<br>**2\. Work with me One-on-One.**<br>If you'd like to work directly with me to increase your average sale price and dominate selling high end and luxury homes in your market, we offer several coaching options.&nbsp; Shoot me an email at [Michael@MarketingLuxuryGroup.com](mailto:Michael@MarketingLuxuryGroup.com).
 
 **3\. Speak At Your Next Event.**<br>If you are interested in hiring me to speak at your next conference or event—[click here.](http://bookmichaellafido.com/){: target="_blank"}
