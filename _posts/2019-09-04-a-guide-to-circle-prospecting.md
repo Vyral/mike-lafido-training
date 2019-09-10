@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Guide to Circle Prospecting
-date: 2019-09-04 18:44:03
+date: 2019-09-04 18:44:00
 tags:
   - Increase Business
 excerpt: >-
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 0bqbcGR3TLU
+youtube_code: mb9L-rE-cA4
 ---
 
 {% include youtube.html %}
