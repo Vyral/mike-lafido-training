@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Guide to Circle Prospecting
+title: A Guide To Circle Prospecting Around Your Listings
 date: 2019-09-04 18:44:00
 tags:
   - Increase Business
