@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Luxury Homeowners Can Be a Huge Part of Their Own Sale
-date: 2019-09-19 14:11:59
+date: 2019-09-19 14:11:00
 tags:
   - Build a Real Estate Team
 excerpt: >-
@@ -25,7 +25,7 @@ We’ve talked before about circle prospecting and letting the neighbors of your
 
 {% include pullquote.html %}
 
-Some sellers might be a little hesitant, but here’s the thing. **The day that the home is listed on the market, everyone will know it’s listed even if there’s no sign in front of the house.** We might as well leverage their databases to get more eyeball traffic and more qualified showings and offers. This might mean giving some extra brochure copies to your clients or creating a video book like you see in the video above. The seller can then have that video book out whenever people are over and let people know it’s on the market.
+Some sellers might be a little hesitant, but here’s the thing:&nbsp;**The day that the home is listed on the market, everyone will know it’s listed even if there’s no sign in front of the house.** We might as well leverage their databases to get more eyeball traffic and more qualified showings and offers. This might mean giving some extra brochure copies to your clients or creating a video book like you see in the video above. The seller can then have that video book out whenever people are over and let people know it’s on the market.
 
 At the end of the day, you want that sign out in your yard to let everyone know the home’s available and so that it brings top-of-mind awareness. You also want to have your home sellers on board so they know how important they are in all of this.
 
