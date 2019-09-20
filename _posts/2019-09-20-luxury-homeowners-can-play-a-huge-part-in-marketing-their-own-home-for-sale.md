@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Luxury Homeowners Can Be a Huge Part of Their Own Sale
-date: 2019-09-19 14:11:00
+title: Luxury Homeowners Can Play a Huge Part In Marketing Their Own Home For Sale
+date: 2019-09-20 02:11:00
 tags:
   - Build a Real Estate Team
 excerpt: >-
