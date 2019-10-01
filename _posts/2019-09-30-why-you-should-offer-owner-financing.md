@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why You Should Offer Owner Financing
-date: 2019-09-30 18:34:58
+date: 2019-09-30 18:34:00
 tags:
   - Real Estate Business Tips
 excerpt: >-
@@ -25,7 +25,7 @@ When I used to think about owner financing, I thought, “Why would you offer it
 
 You see, internationally, there are a lot of tax burdens and pushback on high net-worth individuals. By offering owner financing, **you’ll get qualified buyers with tons of money tied up in their markets or various assets.** They’re well qualified, but there are too many tax ramifications to incentivize them to purchase multimillion-dollar properties.
 
-According to the Profile of International Transactions in U.S. Residential Real Estate report from 2019, the No. 1 foreign buyer last year was China—**they purchased $13.4 billion’s worth of real estate in the United States.** In descending order after China, the next biggest international buyers were Canada, India, the United Kingdom, and Mexico.
+According to the Profile of International Transactions in U.S. Residential Real Estate report from 2019, the No. 1 foreign buyer last year was China—**they purchased $13.4 billions worth of real estate in the United States.** In descending order after China, the next biggest international buyers were Canada, India, the United Kingdom, and Mexico.
 
 In China, there’s a lot of downward pressure, and the number of international transactions has actually gone down year over year.
 
