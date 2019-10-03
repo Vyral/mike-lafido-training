@@ -29,7 +29,7 @@ According to the Profile of International Transactions in U.S. Residential Real 
 
 In China, there’s a lot of downward pressure, and the number of international transactions has actually gone down year over year.
 
-*[On the twelfth episode of our podcast “Luxury Listing Specialist,”](https://luxurylisting.podbean.com/e/creative-financing-in-luxury-real-estate-wfrank-aazami/){: target="_blank"}* Frank Aazami discussed the concept of owner financing, and I highly recommend that you check it out.
+***[On the twelfth episode of our podcast “Luxury Listing Specialist,”](https://luxurylisting.podbean.com/e/creative-financing-in-luxury-real-estate-wfrank-aazami/){: target="_blank"}*** Frank Aazami discussed the concept of owner financing, and I highly recommend that you check it out.
 
 In the end, thinking outside the box and being creative is necessary for selling high-end and luxury properties. Most luxury markets are in what’s called a buyer’s market, and they’re full of stale listings that aren’t getting any showings or are receiving negative feedback.&nbsp;
 
