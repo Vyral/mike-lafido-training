@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why You Should Consider Offering Owner Financing
-date: 2019-09-30 18:34:00
+date: 2019-10-03 06:34:00
 tags:
   - Real Estate Business Tips
 excerpt: >-
