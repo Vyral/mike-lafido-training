@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why You Should Offer Owner Financing
+title: Why You Should Consider Offering Owner Financing
 date: 2019-09-30 18:34:00
 tags:
   - Real Estate Business Tips
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: SYrb00hCgYc
+youtube_code: 7XMlhzvfMD0
 ---
 
 {% include youtube.html %}
@@ -29,7 +29,7 @@ According to the Profile of International Transactions in U.S. Residential Real 
 
 In China, there’s a lot of downward pressure, and the number of international transactions has actually gone down year over year.
 
-[On the twelfth episode of our podcast “Luxury Listing Specialist,”](https://podcasts.apple.com/ca/podcast/creative-financing-in-luxury-real-estate-w-frank-aazami/id1203325371?i=1000390626716){: target="_blank"} Frank Aazami discussed the concept of owner financing, and I highly recommend that you check it out.
+[On the twelfth episode of our podcast “Luxury Listing Specialist,”](https://luxurylisting.podbean.com/e/creative-financing-in-luxury-real-estate-wfrank-aazami/){: target="_blank"} Frank Aazami discussed the concept of owner financing, and I highly recommend that you check it out.
 
 In the end, thinking outside the box and being creative is necessary for selling high-end and luxury properties. Most luxury markets are in what’s called a buyer’s market, and they’re full of stale listings that aren’t getting any showings or are receiving negative feedback.&nbsp;
 
