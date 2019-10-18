@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How a Social Media Scrub Will Help You Get More Listings
-date: 2019-10-14 18:28:00
+date: 2019-10-18 06:28:00
 tags:
   - Real Estate Business Tips
 excerpt: >-
