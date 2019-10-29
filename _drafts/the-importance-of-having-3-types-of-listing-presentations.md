@@ -15,7 +15,7 @@ youtube_alternate_image: /uploads/lafido-youtube.jpg
 youtube_code: uUDVgU1dVQo
 ---
 
-{% include youtube.html %}Here’s why you need three different types of listing presentations when meeting with a client.&nbsp;
+{% include youtube.html %}<center>Here’s why you need three different types of listing presentations when meeting with a client.</center>&nbsp;
 
 When you’re about to meet with a potential client, **it’s important that you’re able to offer three types of listing presentations instead of a one-size-fits-all presentation**—whether you’re working with a buyer or seller.&nbsp;
 
