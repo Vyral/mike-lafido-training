@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Importance of Having 3 Types of Listing Presentations
-date:
+date: 2019-10-29 20:35:54
 tags:
 excerpt: >-
   Here’s why you need three different types of listing presentations when
@@ -15,7 +15,13 @@ youtube_alternate_image: /uploads/lafido-youtube.jpg
 youtube_code: uUDVgU1dVQo
 ---
 
-{% include youtube.html %}<center>Here’s why you need three different types of listing presentations when meeting with a client.</center>&nbsp;
+{% include youtube.html %}
+
+<center>Here&rsquo;s why you need three different types of listing presentations when meeting with a client.</center>
+
+<center>&nbsp;</center>
+
+<center>&nbsp;</center>
 
 When you’re about to meet with a potential client, **it’s important that you’re able to offer three types of listing presentations instead of a one-size-fits-all presentation**—whether you’re working with a buyer or seller.&nbsp;
 
