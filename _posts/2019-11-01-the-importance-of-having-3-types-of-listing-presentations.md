@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Importance of Having 3 Types of Listing Presentations
-date: 2019-10-29 20:35:00
+date: 2019-11-01 08:35:00
 tags:
 excerpt: >-
   Here’s why you need three different types of listing presentations when
@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/lafido-youtube.jpg
-youtube_code: uUDVgU1dVQo
+youtube_code: PfVn1JhcHpc
 ---
 
 {% include youtube.html %}
@@ -37,7 +37,7 @@ For example, if you’ll be sitting across the table from a “D” or “I”&n
 
 Most agents qualify as an “I” personality. As the old adage goes, “Shy real estate agents have skinny kids,” meaning you can’t be shy in this industry.&nbsp;
 
-So essentially, **you can either have a fast-paced, slower-paced, or mixed presentation.** If you’re unfamiliar with the DiSC personality profile or you’d like to take the DiSC test yourself, [click on this link.](https://www.discprofile.com/what-is-disc/overview/){: target="_blank"}
+So essentially, **you can either have a fast-paced, slower-paced, or mixed presentation.** If you’re unfamiliar with the DiSC personality profile or you’d like to take the DiSC test yourself, [click on this link.](https://www.tonyrobbins.com/disc/){: target="_blank"}
 
 In the meantime, the simplest way I can explain different DiSC personalities is by using the airport metaphor—or how each personality type would act if they were running late to catch a plane.&nbsp;
 
