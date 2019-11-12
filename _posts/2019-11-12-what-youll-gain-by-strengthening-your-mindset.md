@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What You’ll Gain By Strengthening Your Mindset
-date: 2019-11-12 22:05:46
+date: 2019-11-12 22:05:00
 tags:
   - Increase Business
 excerpt: >-
