@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Properly Use Event-Based Marketing
-date: 2019-11-21 21:04:39
+date: 2019-11-21 21:04:00
 tags:
   - Real Estate Business Tips
 excerpt: >-
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 9R0wR0F-cq4
+youtube_code: dFuHB088UQo
 ---
 
 {% include youtube.html %}
