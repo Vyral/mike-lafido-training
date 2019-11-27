@@ -33,11 +33,9 @@ This event was extremely well received by everyone in attendance. Indirectly wit
 
 With event-based marketing, don’t do the same things as everyone else—get creative. If you want, you can have an event strictly for real estate agents in the morning, have a break, then host an event for high net-worth individuals and influencers in the afternoon.&nbsp;
 
-\*\*Don’t forget to check out
+**Don’t forget to check out**&nbsp;
 
-<font color="blue">LuxurySpecialistGear.com</font>
-
-for our gear\!\*\* And check out our book “Luxury Listing Specialist” on Amazon. Also, we just released our new playing cards with motivational quotes on them.&nbsp;
+<font color="blue">LuxurySpecialistGear.com</font>&nbsp;**for our gear\!**&nbsp;And check out our book “Luxury Listing Specialist” on Amazon. Also, we just released our new playing cards with motivational quotes on them.&nbsp;
 
 Continue to raise the bar in real estate\! Remember, as an agent, stay away from politics, even on social media. People in all major parties buy and sell large homes.&nbsp;
 
