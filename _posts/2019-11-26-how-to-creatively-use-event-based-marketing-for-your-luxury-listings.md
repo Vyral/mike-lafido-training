@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Properly Use Event-Based Marketing
+title: How to Creatively Use Event-Based Marketing for Your Luxury Listings
 date: 2019-11-26 09:04:00
 tags:
   - Real Estate Business Tips
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: dFuHB088UQo
+youtube_code: _EG9jT-P6Ao
 ---
 
 {% include youtube.html %}
