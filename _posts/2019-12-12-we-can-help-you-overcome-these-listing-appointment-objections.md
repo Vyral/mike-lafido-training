@@ -14,18 +14,18 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: HZ9MN3xnIYw
+youtube_code: kcWXSqxPfRc
 ---
 
 {% include youtube.html %}
 
 In this week’s video, we’ll discuss some common objections that you as an agent have to overcome when you go on a listing appointment.&nbsp;
 
-I don’t have the time to go over all of them, but we have just released our brand-new objection handling playing cards that address most of them. **There are 52 cards in this deck with 16 face cards and 16 common objections.** The remaining cards include motivational sayings like “Remember, Republicans and Democrats both buy and sell luxury homes.”
+I don’t have the time to go over all of them, but we have just released our brand-new objection handling playing cards that address most of them. **There are 52 cards in this deck with 16 face cards and 16 common objections.** The remaining cards include motivational sayings like, “Remember, Republicans and Democrats both buy and sell luxury homes.”
 
 I’m going to cover one of the most common objections today. It’s one that we hear all the time: **“I’m not ready to sell now because we’ve been told x is a better time.”&nbsp;**
 
-A perfect example of why now is the best time to sell is this: Just this past weekend, we showed our $2.5 million listing to a relocation buyer who was looking at six other properties. The next day, unfortunately, they wrote an offer on one of the other homes they saw, but the real point is that if the home wasn’t on the market, that buyer wouldn’t have even had the opportunity to see it.&nbsp;
+Here's a perfect example of why now is the best time to sell is this: Just this past weekend, we showed our $2.5 million listing to a relocation buyer who was looking at six other properties. The next day, unfortunately, they wrote an offer on one of the other homes they saw, but the real point is that if the home wasn’t on the market, that buyer wouldn’t have even had the opportunity to see it.&nbsp;
 
 {% include pullquote.html %}
 
