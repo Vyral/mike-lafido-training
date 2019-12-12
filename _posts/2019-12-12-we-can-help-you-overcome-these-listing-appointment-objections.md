@@ -33,6 +33,6 @@ If you come across this objection, you have to talk about the importance of know
 
 The other concept to remember is that nobody has a crystal ball. Maybe home prices will drop and a home will be worth more today than it will be in the future.
 
-If you have any questions at all, don’t hesitate to reach out to me today. We’re also still looking to get some more reviews from our Luxury Listing Podcast. **If you’ve been listening to that or reading our Luxury Listing Specialist book, we’d love for you to leave a review about your experience.** Don’t forget to check out <font color="blue">[luxuryspeicalistgear.com](https://luxury-specialist-gear.myshopify.com/){: target="_blank"}</font>, too. Keep raising the bar, and I hope to hear from you soon.<br>&nbsp;
+If you have any questions at all, don’t hesitate to reach out to me today. We’re also still looking to get some more reviews from our Luxury Listing Podcast. **If you’ve been listening to that or reading our Luxury Listing Specialist book, we’d love for you to leave a review about your experience.** Don’t forget to check out <font color="blue">[luxuryspeicalistgear.com](https://luxury-specialist-gear.myshopify.com/)</font>, too. Keep raising the bar, and I hope to hear from you soon.<br>&nbsp;
 
 &nbsp;
