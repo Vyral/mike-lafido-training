@@ -1,6 +1,6 @@
 ---
 layout: post
-title: We Can Help You Overcome These Listing Appointment Objections
+title: How To Overcome The "Not Ready To Sell Now" Objection
 date: 2019-12-12 17:28:00
 tags:
   - Real Estate Business Tips
