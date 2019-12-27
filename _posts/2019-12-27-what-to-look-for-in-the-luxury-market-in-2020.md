@@ -1,7 +1,7 @@
 ---
 layout: post
 title:
-date: 2019-12-19 16:23:00
+date: 2019-12-27 16:23:00
 tags:
   - Luxury Listing Specialist
 excerpt: 'As we end 2019, I believe the luxury market in 2020 will favor buyers.'
